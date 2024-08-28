@@ -1,3 +1,8 @@
 This project is for creating the sample file for the Demo of the Jpa
 it contains the five packages
 each package contains the classes
+1.Controller
+2.dto
+3.entity
+4.repo
+5.service
