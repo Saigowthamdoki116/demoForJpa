@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: demoForJpa
+  datasource:
+    url: jdbc:postgresql://localhost:5433/user
+    username: postgres
+    password: 1234
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
